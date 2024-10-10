@@ -39,5 +39,5 @@ Please refer to the respective folders or files for specific algorithm implement
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone git@github.com:AkshathKamath/ML-algos-implementation-scratch.git
    ```
