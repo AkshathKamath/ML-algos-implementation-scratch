@@ -15,7 +15,7 @@ This repository contains implementations of various machine learning and deep le
 
 ## Overview
 
-In this repository, I explore key algorithms in machine learning and deep learning, implementing them from the ground up using Python and NumPy. Each implementation is designed to illustrate the underlying mechanics of the algorithm and to facilitate a hands-on learning experience.
+In this repository, I explore key algorithms in machine learning and deep learning, implementing them from the ground up using Python and NumPy. Each implementation is designed to illustrate the underlying mechanics of the algorithm.
 
 ## Courses Followed
 
@@ -34,10 +34,3 @@ This repository includes implementations of algorithms such as:
 - Logistic Regression
 
 Please refer to the respective folders or files for specific algorithm implementations and details.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:AkshathKamath/ML-algos-implementation-scratch.git
-   ```
