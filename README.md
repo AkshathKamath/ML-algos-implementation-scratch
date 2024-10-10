@@ -7,11 +7,6 @@ This repository contains implementations of various machine learning and deep le
 - [Overview](#overview)
 - [Courses Followed](#courses-followed)
 - [Algorithms Implemented](#algorithms-implemented)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
