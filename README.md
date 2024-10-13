@@ -28,5 +28,6 @@ This repository includes implementations of algorithms such as:
 - Linear Regression
 - Logistic Regression
 - Basic Perceptron
+- Gaussian Discriminant Analysis (GDA)
 
 Please refer to the respective folders or files for specific algorithm implementations and details.
