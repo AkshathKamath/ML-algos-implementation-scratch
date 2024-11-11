@@ -31,5 +31,6 @@ This repository includes implementations of algorithms such as:
 - Gaussian Discriminant Analysis (GDA)
 - Bernoulli Naive Bayes
 - Multi-Class Softmax Regression
+- Support Vector Machine (Optimal Margin Classifier without Kernels)
 
 Please refer to the respective folders or files for specific algorithm implementations and details.
